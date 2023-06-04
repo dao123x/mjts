@@ -79,52 +79,29 @@ const App = () => {
               </Menu.Item>
               <Menu.Item key="2" icon={<ThunderboltOutlined />}>
                 <a
-                  href="https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html"
+                  href="https://www.wenaila.com/ai_draw"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Stable Diffusion 入门教程
+                  问AI啦wenaila.com
                 </a>
               </Menu.Item>
               <Menu.Item key="3" icon={<ExperimentOutlined />}>
                 <a
-                  href="https://www.aishort.top"
+                  href="https://app20jnaynk9022.h5.xiaoeknow.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  ChatGPT Shortcut
-                </a>
-              </Menu.Item>
-              <Menu.Item key="4" >
-                <a
-                  href="https://tools.newzone.top/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  批量文本处理
+                  AI沟通师
                 </a>
               </Menu.Item>
             </Menu>
           </Col>
           <Col>
             <Row gutter={16} wrap={false}>
-              {screens.md && (
-                <Col style={{ display: "flex", alignItems: "center" }}>
-                  <a
-                    href="https://discord.gg/PZTQfJ4GjX"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src="https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge"
-                      alt="chat on Discord"
-                    />
-                  </a>
-                </Col>
-              )}
-              <Col>
+                            <Col>
                 <a
-                  href="https://github.com/rockbenben/img-prompt"
+                  href="https://wenaila.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
