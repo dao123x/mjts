@@ -63,7 +63,7 @@ const App = () => {
   return (
     <Layout>
       <Helmet>
-        <title>IMGPrompt</title>
+        <title>MJ提示词-AI沟通师</title>
         <meta
           name="description"
           content="用于 Stable Diffusion 和 Midjourney 的图像提示词生成"
@@ -75,7 +75,7 @@ const App = () => {
           <Col xs={20} sm={18} md={16}>
             <Menu mode="horizontal" theme="dark" selectedKeys={["1"]}>
               <Menu.Item key="1" icon={<BgColorsOutlined />}>
-                IMGPrompt
+                MJ提示词
               </Menu.Item>
               <Menu.Item key="2" icon={<ThunderboltOutlined />}>
                 <a
@@ -105,9 +105,7 @@ const App = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <GithubOutlined
-                    style={{ color: "white", fontSize: "24px" }}
-                  />
+                  问AI啦wenaila
                 </a>
               </Col>
             </Row>
@@ -126,7 +124,7 @@ const App = () => {
             alignItems: "center",
           }}
         >
-          IMGPrompt
+          MJ提示词-AI沟通师
         </Title>
         <Row gutter={[16, 16]}>
           <Col xs={24} lg={18}>
