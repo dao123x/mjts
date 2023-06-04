@@ -97,19 +97,6 @@ const App = () => {
               </Menu.Item>
             </Menu>
           </Col>
-          <Col>
-            <Row gutter={16} wrap={false}>
-                            <Col>
-                <a
-                  href="https://wenaila.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  问AI啦wenaila
-                </a>
-              </Col>
-            </Row>
-          </Col>
         </Row>
       </Layout.Header>
       <Layout.Content
